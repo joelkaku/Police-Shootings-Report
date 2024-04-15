@@ -16,4 +16,4 @@ Open the file in Power BI Desktop.
 (Optional) If using a different data source, connect your data to the existing model using Power Query Editor.  
 Explore the report pages to gain insights into police shootings.  
 
-### This report is for informational purposes only. The data used may not be exhaustive and may not represent the complete picture of police shootings in the US.
+### This report is for informational purposes only. The data used may not be exhaustive and may not represent the complete picture of police shootings.
